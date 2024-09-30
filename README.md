@@ -1,7 +1,7 @@
 # Hello, world! 👋
-## <p align="center">Michelle Kayne 🧸</p>
+![alt text](https://github.com/michkayne22/michkayne22/blob/main/MichKayne22%20banner.jpg) 
+## 📚 *Interactive Design - Graphic Design Major*
 ### $${\color{green}ABOUT}$$
-
 Hi! I'm *Michelle Kayne*, a Graphic Design student 🎨 with a focus on creating visually engaging designs and meaningful creative projects. I'm very excited to learn and share my design journey as I continue to develop my skills in branding, UI/UX design and web development.
 
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
