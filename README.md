@@ -13,11 +13,11 @@ Hi! I'm *Michelle Kayne*, a Graphic Design student 🎨 with a focus on creating
 - [x] Collaborate with a creative team to develop engaging content and enhance my portfolio with creative projects
 - [x] Contribute innovative ideas and impactful visuals while gaining hands-on experience
 ### $${\color{green}TOOLS}$$
-⚒️ Proficient in the following design software:
-- [x] Adobe Illustrator
-- [x] Lightroom, Photoshop
-- [x] Adobe Premiere Pro, Final Cut Pro
-### $${\color{green}CONTACT}$$
-💌 Feel free to reach out for collaboration or design inquiries :)
+🔋 Proficient in the following design software:
+- [x] Adobe Illustrator, Canva, Procreate
+- [x] Adobe Lightroom, Adobe Photoshop
+- [x] Adobe Premiere Pro, Final Cut Pro, Capcut Pro, DaVinci Resolve Studio
+### $${\color{green}CONNECT}$$
+💌 Feel free to reach out for collaboration or design inquiries.
 - **Email**: michellekayne.babani@edu.sait.ca
 --- 
